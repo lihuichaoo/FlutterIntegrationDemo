@@ -1,0 +1,3 @@
+[submodule "BasicDemo"]
+	path = BasicDemo
+	url = git@github.com:lihuichaoo/AndroidBasicDemo.git
